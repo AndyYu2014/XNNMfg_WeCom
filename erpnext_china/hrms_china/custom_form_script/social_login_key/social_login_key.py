@@ -5,12 +5,12 @@ import json
 
 import frappe
 from frappe import _
-from frappe.model.document import Document
+from frappe.integrations.doctype.social_login_key.social_login_key import SocialLoginKey as _SocialLoginKey
 
 from frappe.utils.password import get_decrypted_password
 from erpnext_china.utils.oauth2_logins import get_access_token
 
-class SocialLoginKey(Document):
+class SocialLoginKey(_SocialLoginKey):
 	# begin: auto-generated types
 	# This code is auto-generated. Do not modify anything in this block.
 
