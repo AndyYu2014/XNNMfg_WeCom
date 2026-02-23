@@ -28,4 +28,4 @@ $ bench --site demo.com install-app erpnext erpnext_china
 ```
 
 联系方式：
-wx:lilingyu4
+wx:Andy13911353193
