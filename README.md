@@ -24,8 +24,8 @@ bench get-app https://github.com/AndyYu2014/XNNMfg_WeCom.git
 
 然后，安装erpnext和erpnext_china
 ```sh
-bench --site demo.com install-app erpnext erpnext_china
+bench --site frontend install-app erpnext erpnext_china
 ```
 
 联系方式：
-wx:lilingyu4
+wx:Andy13911353193
