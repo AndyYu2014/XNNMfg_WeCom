@@ -19,12 +19,12 @@ V16.6.1:通过测试
 
 首先，获取app
 ```sh
-$ bench get-app https://github.com/AndyYu2014/XNNMfg_WeCom.git
+bench get-app https://github.com/AndyYu2014/XNNMfg_WeCom.git
 ```
 
 然后，安装erpnext和erpnext_china
 ```sh
-$ bench --site demo.com install-app erpnext erpnext_china
+bench --site demo.com install-app erpnext erpnext_china
 ```
 
 联系方式：
