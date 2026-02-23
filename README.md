@@ -12,15 +12,14 @@
 
 
 #### 版本兼容性
-V15：已通过兼容测试</br>
-V14：理论兼容，未测试
+V16.6.1:通过测试 
 
 
 ### 安装步骤
 
 首先，获取app
 ```sh
-$ bench get-app https://github.com/saoxia/erpnext_china.git
+$ bench get-app https://github.com/AndyYu2014/XNNMfg_WeCom.git
 ```
 
 然后，安装erpnext和erpnext_china
